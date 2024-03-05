@@ -1,15 +1,7 @@
+//PRE: Fer un programa per gestionar els viatges, els clients i les reserves
 fun main():
-  afegir_llista_viatge()
-  pedir_informacio()
-  mostrar_informacio_viatge()
-  regristra_client()
-  fer_reserva()
-  mostrar_reserva()
-  mostrar_opcions()
-  tractar_opcions()
+  ...
 
-
-  
 fun afegir_llista_viatge():
   ...
 
@@ -33,3 +25,5 @@ fun mostrar_opcions():
 
 fun tractar_opcions():
   ...
+
+//POST: Donar un programa per gestionar
